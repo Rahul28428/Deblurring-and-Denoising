@@ -10,4 +10,4 @@ The script performs signal processing operations on the original signals x[n] an
 
 Overall, this script showcases signal processing techniques such as denoising and deblurring using the Discrete Time Fourier Transform, providing insights into the comparison and analysis of different signal processing methods.
 
-For detailed explanation of code and results go through the report <a href=" "> Report </a>
+For detailed explanation of code and results go through the report <a href="https://github.com/Rahul28428/Deblurring-and-Denoising/blob/main/Report.pdf "> Report </a>
